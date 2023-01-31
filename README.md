@@ -6,10 +6,10 @@ Georgia Tech's 2023 Master of Science in Analytics Project Week consisted of a c
 
 ## Findings
 
-An initial exploratory analysis revealed the intermittency of our data, in addition to a few features we imputed or engineered:
--Missing values: Imputed missing values as 0, since the unit did not sell on those days
--Trend and seasonality: Sales are much higher on Fridays, Saturdays, and Sundays than other days of the week. They are also higher on holidays. Sales show clear seasonality trends, peaking in December.
--We engineered some additional features, including Global Supply Chain Pressure Index, an inflation index, day of the week, and holiday.
+An initial exploratory analysis revealed the intermittency of our data, in addition to a few features we imputed or engineered: \n
+-Missing values: Imputed missing values as 0, since the unit did not sell on those days \n
+-Trend and seasonality: Sales are much higher on Fridays, Saturdays, and Sundays than other days of the week. They are also higher on holidays. Sales show clear seasonality trends, peaking in December \n
+-We engineered some additional features, including Global Supply Chain Pressure Index, an inflation index, day of the week, and holiday \n
 
 ## Conclusions
 
